@@ -1,1 +1,1 @@
-# BH_deuteron
+# Deuteron Bethe-Heitler
